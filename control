@@ -1,0 +1,9 @@
+Package: com.skitty.ccpage
+Name: CCPage
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add a page to your cc.
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
